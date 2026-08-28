@@ -24,7 +24,7 @@ const About = () => {
             <p>
               {personalData.aboutText}
             </p>
-            <a href="#" className="btn">Read More</a>
+            {/* <a href="#" className="btn">Read More</a> */}
           </div>
         </div>
       </div>

@@ -14,16 +14,16 @@ const personalData = {
     // About Section
     aboutImg: "images/Niteshabout.png",
     aboutTitle: "Full Stack Developer",
-    aboutText: "Hi, I'm Nitesh Singh, a frontend developer based in India. I have a passion for web development and I'm currently learning React.js, Node.js,Express,js,MongoDB, HTML, CSS, and JavaScript. I love to create beautiful and functional websites that provide a great user experience. I'm always looking for new challenges and opportunities to learn and grow as a developer.",
+    aboutText: "Hi, I'm Nitesh Singh, a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in Java, Spring Boot, Spring Security, JPA, Hibernate, REST APIs, React.js, Node.js, Express.js, MongoDB, and MySQL. I enjoy working across both frontend and backend development, solving real-world problems, and continuously learning new technologies. I'm always open to challenging projects and opportunities that help me grow as a developer.",
 
-    // Services Section
-    service1Title: "Web Development",
-    service1Text: "Experienced in building responsive and user-friendly websites using HTML, CSS, and JavaScript.",
-    service2Title: "Graphic Design",
-    service2Text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae pariatur, cum explicabo.",
-    service3Title: "Android Development",
-    service3Text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae pariatur, cum explicabo.",
+// Services Section
 
+service1Title: "Full Stack Web Development",
+service1Text: "Building responsive and user-friendly web applications using Java, Spring Boot, React.js, and modern web technologies.",
+service2Title: "Backend Development",
+service2Text: "Developing secure and reliable backend applications using Java, Spring Boot, Spring Security, REST APIs, JPA, Hibernate, MySQL, and MongoDB.",
+service3Title: "Frontend Development",
+service3Text: "Creating responsive and interactive user interfaces using React.js, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS.",
     // Education Section
     edu1Year: "2022 - 2026",
     edu1Course: "B.Tech",
@@ -61,9 +61,9 @@ project4Title: "Amazon Clone",
 project4Img: "images/project4.png",
 project4Text: "A responsive e-commerce website inspired by Amazon, built using HTML, CSS, JavaScript, and React.js with a modern and user-friendly shopping interface.",
 
-// project5Title: "BuddyBook - Real-Time Chat Application",
-// project5Img: "images/project5.png",
-// project5Text: "A real-time chatting application built with MongoDB, Express.js, React.js, Node.js, and Socket.io for instant communication between users.",
+project5Title: "Skating Board School",
+project5Img: "images/project5.bmp",
+project5Text: "A responsive website for a skating board school, designed to showcase skating programs, training information, facilities, and school details through a clean and user-friendly interface.",
 
 // project6Title: "Expense Tracker",
 // project6Img: "images/project6.jpg",

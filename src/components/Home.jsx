@@ -40,7 +40,7 @@ const Home = () => {
               /></span>
             </h3>
             <p className="me-5">
-              I'm a Frontend developer based in India. I have a passion for web development and I'm currently learning React, HTML, CSS, and JavaScript.
+              I'm a Full Stack Developer based in India with a passion for building modern and user-friendly web applications. I work with Java, Spring Boot, React.js, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, and MySQL. I enjoy developing both frontend and backend applications and continuously learning new technologies to improve my skills.
             </p>
             <div className="social-media">
               <a href={personalData.linkedIn}><RiLinkedinFill /></a>

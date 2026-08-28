@@ -28,7 +28,7 @@ const Portfolio = () => {
                   <p className="card-text">
                     {personalData.project1Text}
                   </p>
-                  <a href="#"><RiLink /></a>
+                  <a href="https://github.com/Nitesh8237/Smart-Parking-System-Frontend"><RiLink /></a>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@ const Portfolio = () => {
                   <p className="card-text">
                     {personalData.project2Text}
                   </p>
-                  <a href="#"><RiLink /></a>
+                  <a href="https://github.com/Nitesh8237/Quirex"><RiLink /></a>
                 </div>
               </div>
             </div>
@@ -56,7 +56,7 @@ const Portfolio = () => {
                   <p className="card-text">
                     {personalData.project3Text}
                   </p>
-                  <a href="#"><RiLink /></a>
+                  <a href="https://github.com/Nitesh8237/Amazon-Clone"><RiLink /></a>
                 </div>
               </div>
             </div>
@@ -70,13 +70,13 @@ const Portfolio = () => {
                   <p className="card-text">
                     {personalData.project4Text}
                   </p>
-                  <a href="#"><RiLink /></a>
+                  <a href="https://github.com/Nitesh8237/Portfolio"><RiLink /></a>
                 </div>
               </div>
             </div>
 
             {/* Project 5 */}
-            {/* <div className="col-lg-4 col-md-6 col-sm-12 mb-4" data-aos="fade-up">
+            <div className="col-lg-4 col-md-6 col-sm-12 mb-4" data-aos="fade-up">
               <div className="card portfolio-box">
                 <img src={personalData.project5Img} alt="" className="card-img-top img-fluid" />
                 <div className="portfolio-layer card-body">
@@ -84,10 +84,10 @@ const Portfolio = () => {
                   <p className="card-text">
                     {personalData.project5Text}
                   </p>
-                  <a href="#"><RiLink /></a>
+                  <a href="https://github.com/Nitesh8237/Skate-Board-School"><RiLink /></a>
                 </div>
               </div>
-            </div> */}
+            </div>
 
             {/* Project 6 */}
             {/* <div className="col-lg-4 col-md-6 col-sm-12 mb-4" data-aos="fade-up">

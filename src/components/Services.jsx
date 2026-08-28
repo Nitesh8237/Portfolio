@@ -31,9 +31,9 @@ const Services = () => {
                 <p className="card-text">
                   {personalData.service1Text}
                 </p>
-                <a href="#" className="btn">
+                {/* <a href="#" className="btn">
                   Read More
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -46,9 +46,9 @@ const Services = () => {
                 <p className="card-text">
                   {personalData.service2Text}
                 </p>
-                <a href="#" className="btn">
+                {/* <a href="#" className="btn">
                   Read More
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -61,9 +61,9 @@ const Services = () => {
                 <p className="card-text">
                   {personalData.service3Text}
                 </p>
-                <a href="#" className="btn">
+                {/* <a href="#" className="btn">
                   Read More
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
