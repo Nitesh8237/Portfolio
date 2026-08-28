@@ -27,20 +27,20 @@ service3Text: "Creating responsive and interactive user interfaces using React.j
     // Education Section
     edu1Year: "2022 - 2026",
     edu1Course: "B.Tech",
-    edu1Stream: "Computer Science",
-    edu1College: "SR Institute of Management and Technology",
-    edu1Grade: "A+",
+    edu1Stream: "Computer Science & Engineering",
+    edu1College: "Dr. A.P.J. Abdul Kalam Technical University",
+    edu1Grade: "6.92 CGPA",
 
     edu2Year: "2020 - 2022",
     edu2Course: "Intermediate",
-    edu2Stream: "Science",
-    edu2College: "SR Global School",
+    edu2Stream: "Mathematics & Science",
+    edu2College: "CBSE Board",
     edu2Grade: "68%",
 
     edu3Year: "2018 - 2020",
     edu3Course: "High School",
     edu3Stream: "Science",
-    edu3College: "Raghukul Academy",
+    edu3College: "CBSE Board",
     edu3Grade: "78%",
 
   // Portfolio Section
