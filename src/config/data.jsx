@@ -54,11 +54,11 @@ project2Img: "images/project2.bmp",
 project2Text: "A MERN stack real estate platform that allows users to explore, search, and manage property listings through a responsive and user-friendly interface.",
 
 project3Title: "Personal Portfolio",
-project3Img: "images/project3.webp",
+project3Img: "images/project3.png",
 project3Text: "A responsive personal portfolio website showcasing my skills, projects, education, experience, and contact information using modern web technologies.",
 
 project4Title: "Amazon Clone",
-project4Img: "images/project4.png",
+project4Img: "images/project4.webp",
 project4Text: "A responsive e-commerce website inspired by Amazon, built using HTML, CSS, JavaScript, and React.js with a modern and user-friendly shopping interface.",
 
 project5Title: "Skating Board School",
